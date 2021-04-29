@@ -1,3 +1,9 @@
+This code is associated with the following BCO-DMO datasets:
+
+https://www.bco-dmo.org/dataset/787966
+
+https://www.bco-dmo.org/dataset/787432
+
 # UVP_submission_formatting
 https://github.com/britairving/UVP_submission_formatting/
 
